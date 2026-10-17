@@ -1,9 +1,9 @@
 # Beyond Accuracy@k: How Localization Quality Shapes Repository-Level LLM Program Repair
 
-**Lab 5 — Scoping a Grounded Research Gap in LLM4APR** (Week 05)
+**Lab 5 — Scoping a Grounded Research Gap in LLM4APR** (Week 05)<br>
 Deliverable: a 2-page Research Gap Statement and 3 formulated Research Questions.
 
-**Full statement (PDF):** [`lab5-gap-statement.pdf`](lab5-gap-statement.pdf)
+**Full statement (PDF):** [`lab5-gap-statement.pdf`](lab5-gap-statement.pdf)<br>
 **Author:** Juan Javier Samuel Z (东万) · L25020002
 
 ---
